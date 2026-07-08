@@ -1,7 +1,5 @@
 # uber-trip-data-analysis
-Show what the dashboard looks like - |[Alt test](https://github.com/username/repo/assets/image.png).
-|[Dashboard Preview](https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
-https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20vechicle%20analysis.jpeg)
+
 # 🚗 Uber Trip data  Analysis: Dynamic Ride-Hailing Insights Dashboard
 
 A dynamic, interactive data visualization tool built to explore Uber ride metrics—focusing on booking statuses, revenue trends, fleet vehicle performance, and customer/driver satisfaction ratings.
@@ -20,17 +18,17 @@ The dashboard was built using the following tools and technologies:
 * 📝 **Data Modeling** – Structured relationships established to enable seamless cross-filtering across vehicle types, ratings, and timeline toggles.
 * 📁 **File Format** – `.pbix` for development and `.jpg` for dashboard previews.
 
-4. Data Source
+# 4. Data Source
 
 The dataset used in this project was independently sourced and compiled specifically for this analysis. It features highly detailed booking records designed to simulate a comprehensive, real-world ride-hailing environment, tracking structural details such as booking statuses (Completed, Cancelled, Incomplete), vehicle types, total/average distances, customer and driver ratings, and revenue timelines across 12 months.
 
- 5. Features / Highlights
+# 5. Features / Highlights
 
- • Business Problem
+# • Business Problem
 
 The ride-hailing industry deals with massive volumes of daily transactions, making it challenging for operators to quickly identify operational bottlenecks, track lost revenue from cancelled rides, or understand which vehicle segments drive the highest contribution. Key questions such as: *Which vehicle types are driving the most revenue? What is the core reason for incomplete trips? Are customer and driver satisfaction levels aligned across different options?* ...are difficult to answer quickly with raw data.
 
-• Goal of the Dashboard
+# • Goal of the Dashboard
 
 To deliver an interactive business intelligence tool that:
 
