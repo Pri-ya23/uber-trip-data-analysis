@@ -25,7 +25,7 @@ The dashboard was built using the following tools and technologies:
 
 The dataset used in this project was independently sourced and compiled specifically for this analysis. It features highly detailed booking records designed to simulate a comprehensive, real-world ride-hailing environment, tracking structural details such as booking statuses (Completed, Cancelled, Incomplete), vehicle types, total/average distances, customer and driver ratings, and revenue timelines across 12 months.
 
-# 5. Features / Highlights
+# 5. Features 
 
 # • Business Problem
 
