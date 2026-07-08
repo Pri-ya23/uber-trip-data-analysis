@@ -1,5 +1,6 @@
 # uber-trip-data-analysis
-![dashboard preview](https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
+![Alt test](https://github.com/username/repo/assets/image.png).
+![Dashboard Preview](https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
 https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20vechicle%20analysis.jpeg)
 # 🚗 Uber Trip data  Analysis: Dynamic Ride-Hailing Insights Dashboard
 
