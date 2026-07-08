@@ -1,15 +1,15 @@
 # uber-trip-data-analysis
-https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
-https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20vechicle%20analysis.jpeg
-🚗 Uber Trip data  Analysis: Dynamic Ride-Hailing Insights Dashboard
+![dashboard preview](https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
+https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20vechicle%20analysis.jpeg)
+# 🚗 Uber Trip data  Analysis: Dynamic Ride-Hailing Insights Dashboard
 
 A dynamic, interactive data visualization tool built to explore Uber ride metrics—focusing on booking statuses, revenue trends, fleet vehicle performance, and customer/driver satisfaction ratings.
 
- 2. Purpose
+# 2. Purpose
 
 The Uber Analytics Dashboard is a visually engaging and analytical Power BI report designed to help operations managers and stakeholders monitor and analyze ride-hailing performance metrics across multiple vehicle categories. The dashboard focuses on highlighting key operational metrics like completed vs. lost bookings, peak revenue months, vehicle performance matrix, and customer satisfaction to drive data-driven decision-making for ride-hailing optimization.
 
- 3. Tech Stack
+# 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
