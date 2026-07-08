@@ -1,5 +1,6 @@
 # uber-trip-data-analysis
-
+https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20analysis.jpeg
+https://github.com/Pri-ya23/uber-trip-data-analysis/blob/main/uber%20trip%20vechicle%20analysis.jpeg
 # 🚗 Uber Trip data  Analysis: Dynamic Ride-Hailing Insights Dashboard
 
 A dynamic, interactive data visualization tool built to explore Uber ride metrics—focusing on booking statuses, revenue trends, fleet vehicle performance, and customer/driver satisfaction ratings.
